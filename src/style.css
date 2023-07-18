@@ -1,0 +1,33 @@
+
+.container{
+max-width: 600px;
+background-color: aquamarine;
+text-align: center;
+height: 650px;
+}
+h1{
+    padding: 40px;
+}
+h2{
+    padding-top: 40px;
+}
+h3{
+    padding-top: 40px;  
+}
+p{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+img{
+    margin-bottom:25px ;
+}
+
+div a{
+    text-decoration: none;
+    color:darkmagenta;
+}
+
+#links{
+    display: flex;
+    justify-content: center;
+}
